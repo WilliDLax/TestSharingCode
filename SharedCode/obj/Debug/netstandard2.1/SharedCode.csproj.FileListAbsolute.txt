@@ -1,0 +1,10 @@
+/Users/wemabank/Projects/TestCodeSharing/SharedCode/bin/Debug/netstandard2.1/SharedCode.deps.json
+/Users/wemabank/Projects/TestCodeSharing/SharedCode/bin/Debug/netstandard2.1/SharedCode.dll
+/Users/wemabank/Projects/TestCodeSharing/SharedCode/bin/Debug/netstandard2.1/SharedCode.pdb
+/Users/wemabank/Projects/TestCodeSharing/SharedCode/obj/Debug/netstandard2.1/SharedCode.csproj.AssemblyReference.cache
+/Users/wemabank/Projects/TestCodeSharing/SharedCode/obj/Debug/netstandard2.1/SharedCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wemabank/Projects/TestCodeSharing/SharedCode/obj/Debug/netstandard2.1/SharedCode.AssemblyInfoInputs.cache
+/Users/wemabank/Projects/TestCodeSharing/SharedCode/obj/Debug/netstandard2.1/SharedCode.AssemblyInfo.cs
+/Users/wemabank/Projects/TestCodeSharing/SharedCode/obj/Debug/netstandard2.1/SharedCode.csproj.CoreCompileInputs.cache
+/Users/wemabank/Projects/TestCodeSharing/SharedCode/obj/Debug/netstandard2.1/SharedCode.dll
+/Users/wemabank/Projects/TestCodeSharing/SharedCode/obj/Debug/netstandard2.1/SharedCode.pdb

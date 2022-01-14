@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rysz9murikM/I6bTkF9sdUeqNhqtAZiODPOo5au7dvPVkzJi60s9WuU/p8tqBrI8wecFe1pJvjtU+qVIL2PtDQ==",
+  "success": true,
+  "projectFilePath": "/Users/wemabank/Projects/TestCodeSharing/TestCodeSharing.iOS/TestCodeSharing.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/wemabank/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/wemabank/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
